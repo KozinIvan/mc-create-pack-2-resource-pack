@@ -44,7 +44,7 @@
 	"window.mode.down": "Вниз",
 	"window.mode.left": "Влево",
 	"window.mode.right": "Вправо",
-	"step.mode.slide": "Extend Slide",
-	"step.mode.no_slide": "Don't Extend Slide",
+	"step.mode.slide": "Открывать ступеньки",
+	"step.mode.no_slide": "Не открывать ступеньки",
 	"itemGroup.create_train_parts.base": "Create: Train Parts"
 }
