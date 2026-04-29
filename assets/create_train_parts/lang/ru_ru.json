@@ -39,11 +39,11 @@
 	"create_train_parts.ponder.railway_crossing.header": "Железнодорожный шлагбаум",
 	"create_train_parts.ponder.railway_crossing.text_1": "При использовании шлагбаума со светофорами, вы создадите безопасный железнодорожный переезд",
 	"create_train_parts.sliding_window.mode": "Режим открытия окна",
+	"create_train_parts.train_step.mode": "Режим открытия ступеньки",
 	"window.mode.up": "Вверх",
 	"window.mode.down": "Вниз",
 	"window.mode.left": "Влево",
 	"window.mode.right": "Вправо",
-	"create_train_parts.train_step.mode": "Slide mode",
 	"step.mode.slide": "Extend Slide",
 	"step.mode.no_slide": "Don't Extend Slide",
 	"itemGroup.create_train_parts.base": "Create: Train Parts"
