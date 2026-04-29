@@ -38,7 +38,7 @@
 	"create_train_parts.ponder.crossing.text_3": "Вы можете увеличить стрелу шлагбаума с помощью расширителя стрелы",
 	"create_train_parts.ponder.railway_crossing.header": "Железнодорожный шлагбаум",
 	"create_train_parts.ponder.railway_crossing.text_1": "При использовании шлагбаума со светофорами, вы создадите безопасный железнодорожный переезд",
-	"create_train_parts.sliding_window.mode": "Sliding Window Mode",
+	"create_train_parts.sliding_window.mode": "Режим открытия окна",
 	"window.mode.up": "Вверх",
 	"window.mode.down": "Вниз",
 	"window.mode.left": "Влево",
