@@ -58,7 +58,7 @@
 	"create.generic.unit.hours": "ч.",
 	"create.schedule.condition.dynamic_delay.status": "Отправление через %s",
 	"createrailwaysnavigator.display_source.advanced_display": "Улучшенные табло",
-	"createrailwaysnavigator.display_target.advanced_display.component": "Component %s",
+	"createrailwaysnavigator.display_target.advanced_display.component": "Компонент %s",
 	"createrailwaysnavigator.moin": "moin",
 	"createrailwaysnavigator.schedule.condition.dynamic_delay": "Динамическая задержка",
 	"createrailwaysnavigator.schedule.condition.dynamic_delay.at_least": "но не менее %s",
