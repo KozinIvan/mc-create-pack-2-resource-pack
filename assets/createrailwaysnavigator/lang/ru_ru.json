@@ -46,7 +46,7 @@
 	"block.createrailwaysnavigator.advanced_display_small.tooltip.behaviour1": "Открывает меню _настройки_ табло.",
 	"block.createrailwaysnavigator.advanced_display_small.tooltip.condition1": "ПКМ гаечным ключом",
 	"block.createrailwaysnavigator.advanced_display_small.tooltip.summary": "Используется в _поездах_ как _табло назначения_ или _информации пассажиров_, либо на _станциях_ как улучшенные _платформенные табло_ с расширенной информацией, чем обычные механическое табло.",
-	"block.createrailwaysnavigator.navigator_lectern": "Lectern with Navigator",
+	"block.createrailwaysnavigator.navigator_lectern": "Навигационная стойка",
 	"block.createrailwaysnavigator.train_station_clock": "Станционные часы",
 	"block.createrailwaysnavigator.train_station_clock.tooltip.behaviour1": "Отображает _текущее время_ над панелью быстрого доступа.",
 	"block.createrailwaysnavigator.train_station_clock.tooltip.behaviour2": "Изменяет часы для отображения времени _со всех четырёх сторон_.",
