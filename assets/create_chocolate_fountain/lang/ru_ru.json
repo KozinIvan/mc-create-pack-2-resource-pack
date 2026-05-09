@@ -1,14 +1,14 @@
 {
-	"itemGroup.create_chocolate_fountain.base": "Create: Chocolate Fountain",
-	"block.create_chocolate_fountain.chocolate_fountain": "Chocolate Fountain",
-	"create_chocolate_fountain.ponder.chocolate_fountain.header": "Setting up Chocolate Fountains",
-	"create_chocolate_fountain.ponder.chocolate_fountain.text_1": "Chocolate Fountains can be supplied with chocolate from below",
-	"create_chocolate_fountain.ponder.chocolate_fountain.text_2": "A redstone signal will disable the fountain",
-	"create_chocolate_fountain.ponder.chocolate_fountain_range.header": "Using Chocolate Fountains",
-	"create_chocolate_fountain.ponder.chocolate_fountain_range.text_1": "Chocolate Fountains have a range of 10 blocks by default",
-	"create_chocolate_fountain.ponder.chocolate_fountain_range.text_2": "Players within this range are automatically fed with chocolate",
-	"create_chocolate_fountain.ponder.chocolate_fountain_bees.header": "Calming Bees with Honey",
-	"create_chocolate_fountain.ponder.chocolate_fountain_bees.text_1": "Chocolate Fountains also work with Honey",
-	"create_chocolate_fountain.ponder.chocolate_fountain_bees.text_2": "Bees will not become angry around the Chocolate Fountain",
-	"create_chocolate_fountain.ponder.chocolate_fountain_bees.text_3": "Already angry bees will be calmed when entering the fountain's range"
+	"block.create_chocolate_fountain.chocolate_fountain": "Шоколадный Фонтан",
+	"create_chocolate_fountain.ponder.chocolate_fountain.header": "Настройка Шоколадных Фонтанов",
+	"create_chocolate_fountain.ponder.chocolate_fountain.text_1": "В шоколадные фонтаны можно подавать шоколад снизу",
+	"create_chocolate_fountain.ponder.chocolate_fountain.text_2": "Сигнал красного камня отключит фонтан",
+	"create_chocolate_fountain.ponder.chocolate_fountain_bees.header": "Успокоение пчел с помощью меда",
+	"create_chocolate_fountain.ponder.chocolate_fountain_bees.text_1": "Шоколадные фонтаны также работают с медом",
+	"create_chocolate_fountain.ponder.chocolate_fountain_bees.text_2": "Пчелы не будут злиться вокруг шоколадного фонтана",
+	"create_chocolate_fountain.ponder.chocolate_fountain_bees.text_3": "Уже сердитые пчелы успокоятся при входе в радиус действия фонтана",
+	"create_chocolate_fountain.ponder.chocolate_fountain_range.header": "Использование Шоколадных Фонтанов",
+	"create_chocolate_fountain.ponder.chocolate_fountain_range.text_1": "По умолчанию шоколадные фонтаны имеют радиус действия в 10 блоков",
+	"create_chocolate_fountain.ponder.chocolate_fountain_range.text_2": "Игроки в пределах этого диапазона автоматически подпитываются шоколадом (восстанавлиают голод)",
+	"itemGroup.create_chocolate_fountain.base": "Create: Chocolate Fountain"
 }
