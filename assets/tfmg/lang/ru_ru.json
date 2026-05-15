@@ -1,6 +1,6 @@
 {
-	"block.tfmg.accumulator": "Accumulator",
-	"block.tfmg.accumulator.tooltip.summary": "Holds a Large Amount of energy (inserted from bottom) that can be outputted Slowly from the Top",
+	"block.tfmg.accumulator": "Аккумулятор",
+	"block.tfmg.accumulator.tooltip.summary": "Содержит большое количество энергии и может медленно выдавать ее сверху.",
 	"block.tfmg.air_intake": "Воздухозаборник",
 	"block.tfmg.aluminum_bars": "Алюминиевый столб",
 	"block.tfmg.aluminum_block": "Блок алюминия",
