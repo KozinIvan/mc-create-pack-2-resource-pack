@@ -1,0 +1,22 @@
+{
+  "itemGroup.waterwheelbearing": "Wheel Bearing",
+  "block.waterwheelbearing.wheel_bearing": "Wheel Bearing",
+  "item.waterwheelbearing.wheel_bearing": "Wheel Bearing",
+
+  "waterwheelbearing.gui.goggles.wheel_bearing_stats": "Wheel Bearing Stats:",
+
+  "waterwheelbearing.jade.status.idle": "Not assembled",
+  "waterwheelbearing.jade.status.running": "Running",
+  "waterwheelbearing.jade.speed": "Speed: %s RPM",
+  "waterwheelbearing.jade.stress": "Stress Capacity: %s SU",
+
+  "config.jade.plugin_waterwheelbearing.wheel_bearing": "Wheel Bearing Info",
+
+  "waterwheelbearing.configuration.title": "Water wheel bearing Configs",
+  "waterwheelbearing.configuration.section.waterwheelbearing.common.toml": "Water wheel bearing Configs",
+  "waterwheelbearing.configuration.section.waterwheelbearing.common.toml.title": "Water wheel bearing Configs",
+  "waterwheelbearing.configuration.items": "Item List",
+  "waterwheelbearing.configuration.logDirtBlock": "Log Dirt Block",
+  "waterwheelbearing.configuration.magicNumberIntroduction": "Magic Number Text",
+  "waterwheelbearing.configuration.magicNumber": "Magic Number"
+}

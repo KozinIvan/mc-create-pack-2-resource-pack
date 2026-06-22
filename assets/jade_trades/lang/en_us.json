@@ -1,0 +1,21 @@
+{
+  "config.jade.plugin_jade_trades.villager_trades": "Villager Trades",
+  "key.categories.jade_trades": "Jade Trades",
+  "key.jade_trades.show_villager_poi": "Show Villager Bed/Work POI",
+  "jade_trades.reputation.summary": "%s (%s)",
+  "jade_trades.reputation.detail": "%s: %s",
+  "jade_trades.reputation.friendly": "Friendly",
+  "jade_trades.reputation.positive": "Positive",
+  "jade_trades.reputation.neutral": "Neutral",
+  "jade_trades.reputation.negative": "Negative",
+  "jade_trades.reputation.hostile": "Hostile",
+  "jade_trades.reputation.source.major_positive": "Cured villager",
+  "jade_trades.reputation.source.minor_positive": "Positive gossip",
+  "jade_trades.reputation.source.trading": "Trading",
+  "jade_trades.reputation.source.minor_negative": "Attacked villager",
+  "jade_trades.reputation.source.major_negative": "Killed villager",
+
+  "jade_trades.hint.shift_for_more": "[Shift] Show all %d trades",
+  "jade_trades.hint.scroll_up": "▲ %d more above (scroll up)",
+  "jade_trades.hint.scroll_down": "▼ %d more below (scroll down)"
+}

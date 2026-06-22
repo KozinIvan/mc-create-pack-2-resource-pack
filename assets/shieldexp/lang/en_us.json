@@ -1,0 +1,79 @@
+{
+  "config.shieldexp.title": "Shield Expansion Config",
+  "config.shieldexp.category.shield_list": "Shield Lists",
+  "config.shieldexp.category.modifiers": "Modifiers",
+
+  "config.shieldexp.option.shield_list": "Shield Whitelist",
+  "config.shieldexp.tooltip.shield_list": "List of items considered as shields. Automatically populated by data packs.",
+
+  "config.shieldexp.option.shield_blacklist": "Shield Blacklist",
+  "config.shieldexp.tooltip.shield_blacklist": "List of items to ignore, even if they are in the whitelist.",
+
+  "config.shieldexp.option.lowering_cooldown": "Lowering Cooldown",
+  "config.shieldexp.tooltip.lowering_cooldown": "Enable the cooldown applied when you lower your shield manually.",
+
+  "config.shieldexp.option.cooldown": "Shield Cooldowns",
+  "config.shieldexp.tooltip.cooldown": "Enable shield cooldowns mechanisms.",
+
+  "config.shieldexp.option.item_only_mode": "Item Only Mode",
+  "config.shieldexp.tooltip.item_only_mode": "Disable all Shield Expansion behaviour (for use with other shield mods like Guarding).",
+
+  "config.shieldexp.option.speed_modifier": "Speed Adjustment",
+  "config.shieldexp.tooltip.speed_modifier": "Enable the speed adjustment to make blocking faster (reduces the vanilla movement penalty).",
+
+  "config.shieldexp.option.harder_explosions": "Advanced Explosions",
+  "config.shieldexp.tooltip.harder_explosions": "Shields only block partial damage from explosions based on their Blast Resistance stat.",
+
+  "config.shieldexp.option.lenient_parry_mode": "Lenient Parry",
+  "config.shieldexp.tooltip.lenient_parry_mode": "Double the parry window timing.",
+
+  "config.shieldexp.option.lenient_stamina_mode": "Lenient Stamina",
+  "config.shieldexp.tooltip.lenient_stamina_mode": "Double the available shield stamina.",
+
+  "config.shieldexp.option.hud_indicator": "HUD Shield Indicator",
+  "config.shieldexp.tooltip.hud_indicator": "Shows a stamina and cooldown indicator for your shield to the left of the crosshair.",
+
+  "config.shieldexp.option.hud_x_offset": "HUD X Offset",
+  "config.shieldexp.tooltip.hud_x_offset": "Horizontal offset for the shield HUD indicator. Default is 0.",
+  "config.shieldexp.option.hud_y_offset": "HUD Y Offset",
+  "config.shieldexp.tooltip.hud_y_offset": "Vertical offset for the shield HUD indicator. Default is 0.",
+
+  "config.shieldexp.category.tooltips": "Tooltips",
+
+  "config.shieldexp.option.enable_tooltips": "Enable Tooltips",
+  "config.shieldexp.option.tooltip_cooldown": "Show Cooldown",
+  "config.shieldexp.option.tooltip_stamina": "Show Stamina",
+  "config.shieldexp.option.tooltip_speed": "Show Speed Modifier",
+  "config.shieldexp.option.tooltip_parry_damage": "Show Parry Damage",
+  "config.shieldexp.option.tooltip_parry_window": "Show Parry Window",
+  "config.shieldexp.option.tooltip_blast_resistance": "Show Blast Resistance",
+
+  "shieldexp.tooltip.attribute": "When used as Shield:",
+  "shieldexp.tooltip.attribute.cooldown_ticks": " %s Cooldown",
+  "shieldexp.tooltip.attribute.speed_factor_slow": " Slow Movement",
+  "shieldexp.tooltip.attribute.speed_factor_fast": " Fast Movement",
+  "shieldexp.tooltip.attribute.parry_damage": " %s Parry Damage",
+  "shieldexp.tooltip.attribute.parry_ticks": " %s Parry Window",
+  "shieldexp.tooltip.attribute.stamina": " %s Stamina",
+  "shieldexp.tooltip.attribute.blast_resistance": " %s Blast Resistance",
+
+  "item.shieldexp.wooden_shield": "Wooden Shield",
+  "item.shieldexp.golden_shield": "Golden Shield",
+  "item.shieldexp.iron_shield": "Iron Shield",
+  "item.shieldexp.diamond_shield": "Diamond Shield",
+  "item.shieldexp.netherite_shield": "Netherite Shield",
+  "item.shieldexp.paragon_shield": "Paragon Shield",
+  "item.shieldexp.griefer_shield": "Griefer Shield",
+
+  "tag.item.shieldexp.shields": "Shields",
+
+  "sounds.shieldexp.parry_sound": "Successful parry",
+
+  "death.attack.partialblast": "%1$s blew up because their shield couldn't withstand the blast",
+
+  "shieldexp.advancements.get_diamond_shield.title": "Diamond is Unbreakable",
+  "shieldexp.advancements.get_diamond_shield.description": "Craft a Diamond Shield",
+
+  "shieldexp.advancements.get_netherite_shield.title": "Immovable Object",
+  "shieldexp.advancements.get_netherite_shield.description": "Craft a Netherite Shield"
+}

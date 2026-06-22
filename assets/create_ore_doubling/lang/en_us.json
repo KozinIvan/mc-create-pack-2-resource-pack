@@ -1,0 +1,21 @@
+{
+  "create_double_ore.welcome.title": "Create Double Ores loaded.",
+  "create_double_ore.welcome.feedback_intro": "Feedback:",
+  "create_double_ore.welcome.feedback.github": "Github",
+  "create_double_ore.welcome.feedback.discord": "Discord",
+  "create_double_ore.configuration.title": "Create Ore Doubling Settings",
+  "create_double_ore.configuration.section.create_double_ore.common.toml": "Create Ore Doubling",
+  "create_double_ore.configuration.section.create_double_ore.common.toml.title": "Recipe Chances",
+  "create_double_ore.configuration.rawOreCrushing": "Raw Ore Crushing",
+  "create_double_ore.configuration.rawOreCrushing.ironExtraDropChance": "Iron: Extra Crushed Ore Chance (0.0-1.0 | 0.5=50%, 0.75=75%)",
+  "create_double_ore.configuration.rawOreCrushing.goldExtraDropChance": "Gold: Extra Crushed Ore Chance (0.0-1.0 | 0.5=50%, 0.75=75%)",
+  "create_double_ore.configuration.rawOreCrushing.copperExtraDropChance": "Copper: Extra Crushed Ore Chance (0.0-1.0 | 0.5=50%, 0.75=75%)",
+  "create_double_ore.configuration.rawOreCrushing.zincExtraDropChance": "Zinc: Extra Crushed Ore Chance (0.0-1.0 | 0.5=50%, 0.75=75%)",
+  "create_double_ore.configuration.rawOreCrushing.experienceChance": "Experience Nugget Chance (0.0-1.0 | 0.5=50%, 0.75=75%)",
+  "create_double_ore.configuration.rawOreBlockCrushing": "Raw Ore Block Crushing",
+  "create_double_ore.configuration.rawOreBlockCrushing.ironExtraDropChance": "Iron Block: Extra Crushed Ore Chance (0.0-1.0 | 0.5=50%, 0.75=75%)",
+  "create_double_ore.configuration.rawOreBlockCrushing.goldExtraDropChance": "Gold Block: Extra Crushed Ore Chance (0.0-1.0 | 0.5=50%, 0.75=75%)",
+  "create_double_ore.configuration.rawOreBlockCrushing.copperExtraDropChance": "Copper Block: Extra Crushed Ore Chance (0.0-1.0 | 0.5=50%, 0.75=75%)",
+  "create_double_ore.configuration.rawOreBlockCrushing.zincExtraDropChance": "Zinc Block: Extra Crushed Ore Chance (0.0-1.0 | 0.5=50%, 0.75=75%)",
+  "create_double_ore.configuration.rawOreBlockCrushing.experienceChance": "Experience Nugget Chance (0.0-1.0 | 0.5=50%, 0.75=75%)"
+}

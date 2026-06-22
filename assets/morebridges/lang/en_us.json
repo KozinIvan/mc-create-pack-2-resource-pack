@@ -1,0 +1,78 @@
+{
+  "itemGroup.morebridges": "Create: More Bridges",
+
+  "item.morebridges.industrial_iron_ingot": "Ingot of Industrial Iron",
+  "item.morebridges.industrial_iron_nugget": "Nugget of Industrial Iron",
+
+  "block.morebridges.copper_bridge": "Copper Bridge",
+  "block.morebridges.copper_bridge_stair": "Copper Bridge Stair",
+  "block.morebridges.copper_bridge_pier": "Copper Bridge Pier",
+
+  "item.morebridges.copper_bridge": "Copper Bridge",
+  "item.morebridges.copper_bridge_stair": "Copper Bridge Stair",
+  "item.morebridges.copper_bridge_pier": "Copper Bridge Pier",
+
+  "block.morebridges.industrial_bridge": "Industrial Bridge",
+  "block.morebridges.industrial_bridge_stair": "Industrial Bridge Stair",
+  "block.morebridges.industrial_bridge_pier": "Industrial Bridge Pier",
+
+  "item.morebridges.industrial_bridge": "Industrial Bridge",
+  "item.morebridges.industrial_bridge_stair": "Industrial Bridge Stair",
+  "item.morebridges.industrial_bridge_pier": "Industrial Bridge Pier",
+  
+  "block.morebridges.brass_bridge": "Brass Bridge",
+  "block.morebridges.brass_bridge_stair": "Brass Bridge Stair",
+  "block.morebridges.brass_bridge_pier": "Brass Bridge Pier",
+  
+  "item.morebridges.brass_bridge": "Brass Bridge",
+  "item.morebridges.brass_bridge_stair": "Brass Bridge Stair",
+  "item.morebridges.brass_bridge_pier": "Brass Bridge Pier",
+  
+  "block.morebridges.oxidized_copper_bridge": "Oxidized Copper Bridge",
+  "block.morebridges.oxidized_copper_bridge_stair": "Oxidized Copper Bridge Stair",
+  "block.morebridges.oxidized_copper_bridge_pier": "Oxidized Copper Bridge Pier",
+  
+  "item.morebridges.oxidized_copper_bridge": "Oxidized Copper Bridge",
+  "item.morebridges.oxidized_copper_bridge_stair": "Oxidized Copper Bridge Stair",
+  "item.morebridges.oxidized_copper_bridge_pier": "Oxidized Copper Bridge Pier",
+  
+  "block.morebridges.exposed_copper_bridge": "Exposed Copper Bridge",
+  "block.morebridges.exposed_copper_bridge_stair": "Exposed Copper Bridge Stair",
+  "block.morebridges.exposed_copper_bridge_pier": "Exposed Copper Bridge Pier",
+  
+  "item.morebridges.exposed_copper_bridge": "Exposed Copper Bridge",
+  "item.morebridges.exposed_copper_bridge_stair": "Exposed Copper Bridge Stair",
+  "item.morebridges.exposed_copper_bridge_pier": "Exposed Copper Bridge Pier",
+  
+  "block.morebridges.weathered_copper_bridge": "Weathered Copper Bridge",
+  "block.morebridges.weathered_copper_bridge_stair": "Weathered Copper Bridge Stair",
+  "block.morebridges.weathered_copper_bridge_pier": "Weathered Copper Bridge Pier",
+  
+  "item.morebridges.weathered_copper_bridge": "Weathered Copper Bridge",
+  "item.morebridges.weathered_copper_bridge_stair": "Weathered Copper Bridge Stair",
+  "item.morebridges.weathered_copper_bridge_pier": "Weathered Copper Bridge Pier",
+  
+  "block.morebridges.exposed_industrial_bridge": "Exposed Industrial Bridge",
+  "block.morebridges.exposed_industrial_bridge_stair": "Exposed Industrial Bridge Stair",
+  "block.morebridges.exposed_industrial_bridge_pier": "Exposed Industrial Bridge Pier",
+  
+  "item.morebridges.exposed_industrial_bridge": "Exposed Industrial Bridge",
+  "item.morebridges.exposed_industrial_bridge_stair": "Exposed Industrial Bridge Stair",
+  "item.morebridges.exposed_industrial_bridge_pier": "Exposed Industrial Bridge Pier",
+  
+  "block.morebridges.weathered_industrial_bridge": "Weathered Industrial Bridge",
+  "block.morebridges.weathered_industrial_bridge_stair": "Weathered Industrial Bridge Stair",
+  "block.morebridges.weathered_industrial_bridge_pier": "Weathered Industrial Bridge Pier",
+  
+  "item.morebridges.weathered_industrial_bridge": "Weathered Industrial Bridge",
+  "item.morebridges.weathered_industrial_bridge_stair": "Weathered Industrial Bridge Stair",
+  "item.morebridges.weathered_industrial_bridge_pier": "Weathered Industrial Bridge Pier",
+  
+  "block.morebridges.oxidized_industrial_bridge": "Oxidized Industrial Bridge",
+  "block.morebridges.oxidized_industrial_bridge_stair": "Oxidized Industrial Bridge Stair",
+  "block.morebridges.oxidized_industrial_bridge_pier": "Oxidized Industrial Bridge Pier",
+  
+  "item.morebridges.oxidized_industrial_bridge": "Oxidized Industrial Bridge",
+  "item.morebridges.oxidized_industrial_bridge_stair": "Oxidized Industrial Bridge Stair",
+  "item.morebridges.oxidized_industrial_bridge_pier": "Oxidized Industrial Bridge Pier"
+}
