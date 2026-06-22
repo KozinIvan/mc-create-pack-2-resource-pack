@@ -1,1 +1,4 @@
-{}
+{
+	"cfwinfo.config.info_enabled": "Доступная информация для оверлей",
+	"cfwinfo.configuration.overlay": "Оверлей"
+}
