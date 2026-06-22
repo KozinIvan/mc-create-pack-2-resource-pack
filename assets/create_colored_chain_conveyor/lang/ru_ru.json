@@ -50,7 +50,7 @@
 	"block.create_colored_chain_conveyor.yellow_chain_conveyor": "Желтый Цепной Конвейер",
 	"block.create_colored_chain_conveyor.yellow_copper_chain_conveyor": "Желтый Медный Цепной Конвейер",
 	"create_colored_chain_conveyor.ponder.chain_conveyor.header": "Передача вращательного усилия с помощью цепных конвейеров",
-	"create_colored_chain_conveyor.ponder.chain_conveyor.text_1": "Нажмите правой кнопкой мыши на Цепном Конвейере с Дополнительным Корпусом, чтобы заключить его в оболочку.",
-	"create_colored_chain_conveyor.ponder.chain_conveyor.text_2": "Закрытые конвейеры могут передавать вращательную мощность, соответствуя цветовой теме вашей фабрики.",
+	"create_colored_chain_conveyor.ponder.chain_conveyor.text_1": "Нажмите ПКМ на Цепном Конвейере с Дополнительным Корпусом, чтобы заключить его в оболочку",
+	"create_colored_chain_conveyor.ponder.chain_conveyor.text_2": "Закрытые конвейеры могут передавать вращательную мощность, соответствуя цветовой теме вашей фабрики",
 	"creativetab.create_colored_chain_conveyor_tab": "Create: Colored Chain Conveyor"
 }
