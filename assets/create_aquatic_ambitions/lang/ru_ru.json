@@ -36,5 +36,6 @@
 	"mechanical_conduit.selection_mode.players_friendly_mobs": "Игроки и дружелюбные мобы",
 	"recipe.create_aquatic_ambitions.fan_channeling": "Каналирование морским источником",
 	"recipe.create_aquatic_ambitions.fan_channeling.fan": "Каналирование морским источником",
+	"tooltip.create_aquatic_ambitions.effect.burning": "Горение",
 	"tooltip.create_aquatic_ambitions.effect.cleansing": "Очищение"
 }
